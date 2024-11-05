@@ -1,6 +1,8 @@
 Tindog 🐶❤️🐾
 Tindog is a fun, responsive website designed to help dog owners connect with other dog lovers and arrange playdates for their pets. Inspired by the simplicity of popular dating apps, Tindog provides an engaging and intuitive user experience that brings dog owners and dogs together in a friendly, easy-to-use interface.
 
+Visit Master branch to view it.
+
 🐾 Features
 User-Friendly Interface: A sleek, minimal design makes it easy to navigate for all users.
 Matchmaking for Dogs: Connects dog owners based on their location and dog’s preferences, making it easy to find potential playdates.
